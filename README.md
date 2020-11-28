@@ -1,3 +1,3 @@
 # login
 
-visit web site: https://junse99.github.io/login/index.html
+link: https://junse99.github.io/login/index.html
